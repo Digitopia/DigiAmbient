@@ -1,0 +1,84 @@
+{
+	"pattrstorage" : 	{
+		"name" : "synth-params",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"rev-time" : [ 39.0 ],
+					"rev-level" : [ 78.0 ],
+					"attack" : [ 1.240003 ],
+					"decay" : [ 1291.102539 ],
+					"timbreX-map" : [ 254 ],
+					"timbreY-map" : [ 254 ],
+					"attack-map" : [ 254 ],
+					"decay-map" : [ 254 ],
+					"rev-time-map" : [ 254 ],
+					"rev-level-map" : [ 254 ],
+					"timbre-ctrl" : [ 2, 9 ],
+					"volume" : [ -1.785557 ],
+					"timbre-factor" : [ 1.0 ],
+					"synth::parallel" : [ 0 ],
+					"synth::voices" : [ 10 ],
+					"synth::steal" : [ 0 ],
+					"keyboard::register" : [ 48 ],
+					"keyboard::velocity" : [ 100 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rev-time" : [ 32.0 ],
+					"rev-level" : [ 89.0 ],
+					"attack" : [ 15.190033 ],
+					"decay" : [ 22.078634 ],
+					"timbreX-map" : [ 254 ],
+					"timbreY-map" : [ 254 ],
+					"attack-map" : [ 254 ],
+					"decay-map" : [ 254 ],
+					"rev-time-map" : [ 254 ],
+					"rev-level-map" : [ 254 ],
+					"timbre-ctrl" : [ 191, 964 ],
+					"volume" : [ -1.785557 ],
+					"timbre-factor" : [ 100.0 ],
+					"synth::parallel" : [ 0 ],
+					"synth::voices" : [ 10 ],
+					"synth::steal" : [ 0 ],
+					"keyboard::register" : [ 48 ],
+					"keyboard::velocity" : [ 100 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"rev-time" : [ 64.0 ],
+					"rev-level" : [ 112.0 ],
+					"attack" : [ 136.710266 ],
+					"decay" : [ 1471.027222 ],
+					"timbreX-map" : [ -2 ],
+					"timbreY-map" : [ -2 ],
+					"attack-map" : [ -2 ],
+					"decay-map" : [ -2 ],
+					"rev-time-map" : [ -2 ],
+					"rev-level-map" : [ -2 ],
+					"timbre-ctrl" : [ 2, 9 ],
+					"volume" : [ -13.311023 ],
+					"timbre-factor" : [ 1.0 ],
+					"synth::parallel" : [  ],
+					"synth::voices" : [  ],
+					"synth::steal" : [  ],
+					"keyboard::register" : [ 48 ],
+					"keyboard::velocity" : [ 100 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
